@@ -35,21 +35,7 @@ let movies = [
     director: "James Cameron",
     metascore: 94,
     stars: ["Arnold Schwarzenegger", "Edward Furlong", "Linda Hamilton"]
-  },
-  {
-    id: 4,
-    title: "Dumb and Dumber",
-    director: "The Farely Brothers",
-    metascore: 76,
-    stars: ["Jim Carrey", "Jeff Daniels", "Lauren Holly"]
-  },
-  {
-    id: 5,
-    title: "Tombstone",
-    director: "George P. Cosmatos",
-    metascore: 89,
-    stars: ["Kurt Russell", "Bill Paxton", "Sam Elliot"]
-  }
+  } 
 ];
 
 let movieId = movies.length;
